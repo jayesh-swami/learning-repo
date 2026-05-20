@@ -1,5 +1,5 @@
 # learning-repo
-Repository to store all my notes, papers etc. As an ambition to best keep track of my learning, each course directory contains a `course_metadata.yaml` file that serves as the single source of truth for the course's progress, context, and academic connections. The format is as follows - 
+Repository to store all my notes, resources etc. As an ambition to best keep track of my learning, each course directory contains a `course_metadata.yaml` file that serves as the single source of truth for the course's progress, context, and academic connections. The format is as follows - 
 
 ### **Schema Definition**
 
