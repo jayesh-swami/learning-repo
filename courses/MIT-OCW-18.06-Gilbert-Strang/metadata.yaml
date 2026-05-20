@@ -23,4 +23,4 @@ context:
 event_log:
   - date: "2026-05-19"
     type: "completion"
-    note: "Course completed with final exam. Took a bit longer than I initially expected due to other personal commitments but glad to cross the finish line."
+    description: "Course completed with final exam. Took a bit longer than I initially expected due to other personal commitments but glad to cross the finish line."
