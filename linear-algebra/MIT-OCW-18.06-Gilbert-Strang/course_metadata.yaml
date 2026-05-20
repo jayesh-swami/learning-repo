@@ -1,0 +1,25 @@
+name: "Linear Algebra (MIT OCW 18.06)"
+status: "completed"
+start_date: "2026-01-18"
+end_date: "2026-05-19"
+last_revision_date: null
+labels:
+  - "linear-algebra"
+  - "mathematics"
+  - "machine-learning"
+  - "machine-learning-mathematics-foundation"
+links:
+  - type: "youtube"
+    url: "https://youtube.com/playlist?list=PLE7DDD91010BC51F8&si=5gAy4uG3fPsiRZ0_"
+  - type: "mit_ocw"
+    url: "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/"
+context:
+  type: "self-study"
+  institution: "MIT OCW"
+  program: null
+  credential_earned: false
+  related_papers: ["https://www.cs.utexas.edu/~lin/papers/ipps98.pdf"]
+event_log:
+  - date: "2026-05-19"
+    type: "completion"
+    note: "Course completed with final exam. Took a bit longer than I initially expected due to other personal commitments but glad to cross the finish line."
