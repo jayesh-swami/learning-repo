@@ -3,4 +3,4 @@ Repository to store all my notes, resources, paper reviews etc. As an ambition t
 
 The common schema shared across all resource types is defined in [`schema.md`](schema.md). Type-specific fields are documented in per-directory `schema.md` files:
 - [courses/schema.md](courses/schema.md)
-- [paper-readings/schema.md](paper-readings/schema.md) |
+- [paper-readings/schema.md](paper-readings/schema.md)
