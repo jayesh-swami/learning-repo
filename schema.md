@@ -1,11 +1,11 @@
 # Common Schema
 
-The following fields are shared across all resource types (`course`, `paper-review`, `others`). Each directory may define additional fields in its own `schema.md`.
+The following fields are shared across all resource types (`course`, `paper-reading`, `others`). Each directory may define additional fields in its own `schema.md`.
 
 | Field | Type | Description |
 | :--- | :--- | :--- |
-| `name` | `string` | The full, official name of the course/paper-review/others. |
-| `type` | `string` | Type of the resource: `course`, `paper-review`, or `others`. |
+| `name` | `string` | The full, official name of the course/paper-reading/others. |
+| `type` | `string` | Type of the resource: `course`, `paper-reading`, or `others`. |
 | `status` | `string` | Current state: `in-progress`, `completed`, or `paused`. |
 | `start_date` | `date` | The date study commenced (`YYYY-MM-DD`). |
 | `end_date` | `date` \| `null` | The date study concluded (`YYYY-MM-DD`) or `null` if ongoing. |
