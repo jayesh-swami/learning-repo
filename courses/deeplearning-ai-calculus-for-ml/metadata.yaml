@@ -1,0 +1,20 @@
+name: "Calculus for Machine Learning"
+type: "course"
+status: "in-progress"
+end_date: null
+last_revision_date: null
+labels:
+  - "calculus"
+  - "mathematics"
+  - "machine-learning"
+links: []
+context:
+  type: "self-study"
+  institution: "deeplearning.ai"
+  program: null
+  credential_earned: false
+  related_papers: []
+event_log:
+  - date: "2026-06-25"
+    type: "start"
+    description: "Started the course."

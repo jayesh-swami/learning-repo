@@ -1,7 +1,6 @@
 name: "Linear Algebra (MIT OCW 18.06)"
 type: "course"
 status: "completed"
-start_date: "2026-01-18"
 end_date: "2026-05-19"
 last_revision_date: null
 labels:
@@ -21,6 +20,9 @@ context:
   credential_earned: false
   related_papers: ["https://www.cs.utexas.edu/~lin/papers/ipps98.pdf"]
 event_log:
+  - date: "2026-01-18"
+    type: "start"
+    description: "Started the course."
   - date: "2026-05-19"
     type: "completion"
     description: "Course completed with final exam. Took a bit longer than I initially expected due to other personal commitments but glad to cross the finish line."
