@@ -9,12 +9,12 @@ labels:
   - "machine-learning"
   - "machine-learning-mathematics-foundation"
 links:
+  - type: "Personal Notes on Github"
+    url: "https://github.com/jayesh-swami/learning-repo/tree/main/courses/mit-ocw-18.06-gilbert-strang"
   - type: "youtube"
     url: "https://youtube.com/playlist?list=PLE7DDD91010BC51F8&si=5gAy4uG3fPsiRZ0_"
   - type: "mit_ocw"
     url: "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/"
-  - type: "github"
-    url: "https://github.com/jayesh-swami/learning-repo/tree/main/courses/mit-ocw-18.06-gilbert-strang"
 context:
   type: "self-study"
   institution: "MIT OCW"
