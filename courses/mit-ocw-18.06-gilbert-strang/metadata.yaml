@@ -11,9 +11,9 @@ labels:
 links:
   - type: "Personal Notes on Github"
     url: "https://github.com/jayesh-swami/learning-repo/tree/main/courses/mit-ocw-18.06-gilbert-strang"
-  - type: "youtube"
+  - type: "Youtube"
     url: "https://youtube.com/playlist?list=PLE7DDD91010BC51F8&si=5gAy4uG3fPsiRZ0_"
-  - type: "mit_ocw"
+  - type: "MIT - OCW"
     url: "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/"
 context:
   type: "self-study"

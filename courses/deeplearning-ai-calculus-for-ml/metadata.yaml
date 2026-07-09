@@ -10,7 +10,7 @@ labels:
 links:
   - type: "Personal Notes, Quizzes and Labs on Github"
     url: "https://github.com/jayesh-swami/learning-repo/tree/main/courses/deeplearning-ai-calculus-for-ml"
-  - type: "deeplearning_ai"
+  - type: "Deeplearning.ai"
     url: "https://www.deeplearning.ai/courses/machine-learning-calculus"
 context:
   type: "self-study"
