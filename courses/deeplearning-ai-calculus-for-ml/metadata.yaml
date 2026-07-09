@@ -8,10 +8,10 @@ labels:
   - "mathematics"
   - "machine-learning"
 links:
+  - type: "Personal Notes, Quizzes and Labs on Github"
+    url: "https://github.com/jayesh-swami/learning-repo/tree/main/courses/deeplearning-ai-calculus-for-ml"
   - type: "deeplearning_ai"
     url: "https://www.deeplearning.ai/courses/machine-learning-calculus"
-  - type: "github"
-    url: "https://github.com/jayesh-swami/learning-repo/tree/main/courses/deeplearning-ai-calculus-for-ml"
 context:
   type: "self-study"
   institution: "deeplearning.ai"
