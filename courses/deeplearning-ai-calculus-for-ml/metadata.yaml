@@ -1,13 +1,17 @@
 name: "Calculus for Machine Learning"
 type: "course"
-status: "in-progress"
-end_date: null
+status: "completed"
+end_date: "2026-07-09"
 last_revision_date: null
 labels:
   - "calculus"
   - "mathematics"
   - "machine-learning"
-links: []
+links:
+  - type: "deeplearning_ai"
+    url: "https://www.deeplearning.ai/courses/machine-learning-calculus"
+  - type: "github"
+    url: "https://github.com/jayesh-swami/learning-repo/tree/main/courses/deeplearning-ai-calculus-for-ml"
 context:
   type: "self-study"
   institution: "deeplearning.ai"
@@ -18,3 +22,6 @@ event_log:
   - date: "2026-06-25"
     type: "start"
     description: "Started the course."
+  - date: "2026-07-09"
+    type: "completion"
+    description: "Completed the course with all the lectures, claude generated labs and quizzes."
