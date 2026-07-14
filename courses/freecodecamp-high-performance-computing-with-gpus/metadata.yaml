@@ -1,0 +1,25 @@
+name: "High Performance Computing with GPUs"
+type: "course"
+status: "in-progress"
+end_date: null
+last_revision_date: null
+labels:
+  - "cuda"
+  - "gpu-programming"
+  - "parallel-computing"
+  - "high-performance-computing"
+links:
+  - type: "Personal Notes on Github"
+    url: "https://github.com/jayesh-swami/learning-repo/tree/main/courses/freecodecamp-high-performance-computing-with-gpus"
+  - type: "YouTube"
+    url: "https://www.youtube.com/watch?v=86FAWCzIe_4"
+context:
+  type: "self-study"
+  institution: "freeCodeCamp"
+  program: null
+  credential_earned: false
+  related_papers: []
+event_log:
+  - date: "2026-07-14"
+    type: "start"
+    description: "Started the course."
