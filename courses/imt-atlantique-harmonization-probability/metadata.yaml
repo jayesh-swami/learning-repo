@@ -1,0 +1,22 @@
+name: "Harmonization - Probability"
+type: "course"
+status: "in-progress"
+end_date: null
+last_revision_date: null
+labels:
+  - "probability"
+  - "mathematics"
+  - "machine-learning-mathematics-foundation"
+links:
+  - type: "Personal Notes on Github"
+    url: "https://github.com/jayesh-swami/learning-repo/tree/main/courses/imt-atlantique-harmonization-probability"
+context:
+  type: "university"
+  institution: "IMT Atlantique"
+  program: "MSc Data Science"
+  credential_earned: false
+  related_papers: []
+event_log:
+  - date: "2026-08-31"
+    type: "start"
+    description: "Started the course as part of the MSc Data Science harmonization module."
