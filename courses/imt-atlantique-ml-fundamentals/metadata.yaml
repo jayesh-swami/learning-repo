@@ -1,0 +1,29 @@
+name: "Machine Learning Fundamentals"
+type: "course"
+status: "in-progress"
+end_date: null
+last_revision_date: null
+labels:
+  - "machine-learning"
+  - "supervised-learning"
+  - "unsupervised-learning"
+  - "statistics"
+  - "deep-learning"
+  - "neural-networks"
+  - "pca"
+  - "svm"
+  - "reinforcement-learning"
+links:
+  - type: "Lectures and Labs on Github"
+    url: "https://github.com/jayesh-swami/ml-fundamentals-imt"
+context:
+  type: "university"
+  institution: "IMT Atlantique"
+  program: "MSc Data Science"
+  credential_earned: false
+  ects_credits: null
+  related_papers: []
+event_log:
+  - date: "2026-09-22"
+    type: "start"
+    description: "Started the course as part of the MSc Data Science program."
