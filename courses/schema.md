@@ -9,4 +9,5 @@ In addition to the [common fields](../schema.md), courses use the following fiel
 | ↳ `institution` | `string` \| `null` | The institution or platform providing the study. |
 | ↳ `program` | `string` \| `null` | The specific degree or program name (if applicable). |
 | ↳ `credential_earned` | `boolean` | `true` if a certificate or degree was obtained. |
+| ↳ `ects_credits` | `number` \| `null` | ECTS credits earned for the course, or `null` if not applicable. |
 | ↳ `related_papers` | `array[string]` | List of academic papers read or planned to read during this course. |

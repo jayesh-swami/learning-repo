@@ -1,7 +1,7 @@
 name: "Harmonization - Probability"
 type: "course"
-status: "in-progress"
-end_date: null
+status: "completed"
+end_date: "2026-09-21"
 last_revision_date: null
 labels:
   - "probability"
@@ -20,3 +20,6 @@ event_log:
   - date: "2026-08-31"
     type: "start"
     description: "Started the course as part of the MSc Data Science harmonization module."
+  - date: "2026-09-21"
+    type: "completion"
+    description: "Completed the course."
